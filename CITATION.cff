@@ -3,7 +3,7 @@ message: "If you use this software in research, please cite this software releas
 title: "FLIP Video Preprocessor"
 abstract: "A profile-based tool for reproducible crop, rotation, luminance matching, and horizontal composition of paired-view experiment videos."
 type: software
-version: 1.0.0
+version: 1.0.1
 date-released: 2026-09-24
 authors:
   - family-names: Sirisombat
