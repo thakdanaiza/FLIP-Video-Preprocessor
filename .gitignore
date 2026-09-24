@@ -1,6 +1,7 @@
 __pycache__/
 *.py[cod]
 .venv/
+.gh-config/
 .pytest_cache/
 input/
 output/
