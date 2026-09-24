@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software in research, please cite this software release."
+title: "FLIP Video Preprocessor"
+abstract: "A profile-based tool for reproducible crop, rotation, luminance matching, and horizontal composition of paired-view experiment videos."
+type: software
+version: 0.1.0
+date-released: 2026-09-24
+authors:
+  - family-names: Sirisombat
+    given-names: Thakdanai
+    email: fifatein@gmail.com
+    orcid: "https://orcid.org/0000-0003-4360-3525"
+    affiliation: "Integration of Space and Human Advancement (ISHA), Chulabhorn Royal Academy"
+repository-code: "https://github.com/thakdanaiza/FLIP-Video-Preprocessor"
+license: MIT
+keywords:
+  - video preprocessing
+  - experiment video
+  - image calibration
+  - reproducible research
