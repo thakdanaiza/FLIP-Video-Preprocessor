@@ -1,5 +1,7 @@
 # FLIP Video Preprocessor
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22939929.svg)](https://doi.org/10.5281/zenodo.22939929)
+
 Minimal release of the original paired-view video preprocessing code used in the experiment.
 
 ## Requirements
@@ -39,3 +41,7 @@ python3 batch_flip_videos.py \
 ```
 
 Both profiles and published commands fix the encoder settings at H.264 CRF 0 and preset `veryslow`. The original crop geometry and seam-light settings are unchanged.
+
+## Citation
+
+Use GitHub's **Cite this repository** function or cite the archived release: https://doi.org/10.5281/zenodo.22939929

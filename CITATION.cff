@@ -5,6 +5,7 @@ abstract: "A profile-based tool for reproducible crop, rotation, luminance match
 type: software
 version: 1.0.1
 date-released: 2026-09-24
+doi: "10.5281/zenodo.22939929"
 authors:
   - family-names: Sirisombat
     given-names: Thakdanai
@@ -12,6 +13,7 @@ authors:
     orcid: "https://orcid.org/0000-0003-4360-3525"
     affiliation: "Integration of Space and Human Advancement (ISHA), Chulabhorn Royal Academy"
 repository-code: "https://github.com/thakdanaiza/FLIP-Video-Preprocessor"
+url: "https://doi.org/10.5281/zenodo.22939929"
 license: MIT
 keywords:
   - video preprocessing
